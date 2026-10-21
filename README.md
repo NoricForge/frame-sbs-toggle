@@ -1,3 +1,11 @@
+# ⚠️ ARCHIVED RE-UPLOAD / NO SUPPORT
+
+This repository is a personal mirror of the deleted `michaelscottsman/frame-sbs-toggle` project.
+- **I am NOT the original developer.**
+- **This project is unmaintained and provided AS-IS.**
+- **No support, bug reports, or pull requests will be accepted.**
+
+
 # Steam Frame SBS toggles
 
 [Install](#install-from-the-frame-console) · [Uninstall](#uninstall) · [Command line](#command-line)
